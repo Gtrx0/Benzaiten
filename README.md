@@ -1,8 +1,8 @@
 # Benzaiten
 
 
-![Frontside Render]()
-![Backside Render]()
+![Frontside Render](https://raw.githubusercontent.com/Gtrx0/Benzaiten/master/RENDER1.png)
+![Backside Render](https://raw.githubusercontent.com/Gtrx0/Benzaiten/master/RENDER2.png)
 
 
 ## Information
